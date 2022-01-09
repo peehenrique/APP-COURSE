@@ -1,3 +1,4 @@
+import { AuthPage } from './auth/auth.page';
 import { IonicModule } from '@ionic/angular';
 import { FormsModule } from '@angular/forms';
 import { AuthPageModule } from './auth/auth.module';
